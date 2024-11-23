@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.noyobo.tuyaminiappwebsotrm
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
